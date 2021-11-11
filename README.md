@@ -1,18 +1,15 @@
 # API 서버 기본 템플릿
 
 ## dtos
-
-- id
-
-- email
-- role(client|owner|delivery)
+- create-mainpage
+- update-mainpage
 
 ## entities
-
-- Create Account
-- Log In
+- mainpage
+    - id
+    - name
+    - isTest
 
 ## Test
-
 - Create Account
 - Log In
